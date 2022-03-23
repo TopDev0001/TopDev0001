@@ -1,4 +1,4 @@
-# 👋Welcome to my profile!  
+# 👋FuLL STACK DEVELOPER
   
 
 
@@ -68,36 +68,37 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## 𝑮𝒊𝒕𝒉𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=boinik-dev.boinik-dev" />
-<img align="right" src="https://img.shields.io/github/followers/rafael731?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=rafael731&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael731&layout=compact&theme=merko&count_private=true" />
-<img height="150px" /> 
 
-<br/>  
 
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### Website and Mobile app
+### ✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   
 <br />
-
-### eCommerce
+### ✔ React Animation, React Native, React Bootstrap.
 <br />
-  
-### Blockchain & Crypto Currency & Smart Contract
+### ✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
 <br />
-
-### Video Conference Web and Mobile application
+### ✔ Template, Theme and Script customization
 <br />
-
+### ✔ PHP framework (Laravel, CodeIgniter, Yii, etc.)
+<br />
+### ✔ Javascript framework (Node Js, Express Js, etc.)
+<br />
+### ✔ Python, Django, Nest Js, Wordpress, Shopify, Selenium
+<br />
+### ✔ RESTful API,Payment, Facebook, Instagram, Google, and so on API integration
+<br />
+### ✔ Database : MySQL / MariaDB, MongoDB, PostgreSQL
+<br />
+### ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Github, GitLab, Bitbucket
+<br />
+### ✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
+<br />
 </div>
 
-<p align="center"><img height="300px" src="https://activity-graph.herokuapp.com/graph?username=rafael731&theme=github&count_private=true" /></p>
 
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
