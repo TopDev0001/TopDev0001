@@ -2,10 +2,10 @@
   
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
-<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
+<a href="https://join.skype.com/invite/OyBkobIsnA8l">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="mailto:ryosha514@gmail.com">
+<a href="mailto:oleksii.kovalenko1@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
