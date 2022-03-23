@@ -86,7 +86,7 @@ Thank you for spending your valuable time on my profile.<br />
 
 
 <div>
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
 ✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   <br />
 ✔ React Animation, React Native, React Bootstrap.
@@ -109,6 +109,7 @@ Thank you for spending your valuable time on my profile.<br />
 <br />
 ✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
 <br />
+ <div>
  # Ethereum / Solana / BSC / Polygon / Cardano / Moonbeam / Bitcoin<br />
  # Smart Contract Development / Testing / Auditing<br />
  # ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612<br />
@@ -119,7 +120,7 @@ Thank you for spending your valuable time on my profile.<br />
  # Web3.js / Ether.js / Solana-web3<br />
  # Next.js / React.js / Vue.js<br />
  # Source Control<br />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+  </div>
 </div>
 
 
