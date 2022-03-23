@@ -8,6 +8,50 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
 
+
+
+
+
+## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   
+<br />
+✔ React Animation, React Native, React Bootstrap.
+<br />
+✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
+<br />
+✔ Template, Theme and Script customization
+<br />
+✔ PHP framework (Laravel, CodeIgniter, Yii, etc.)
+<br />
+✔ Javascript framework (Node Js, Express Js, etc.)
+<br />
+✔ Python, Django, Nest Js, Wordpress, Shopify, Selenium
+<br />
+✔ RESTful API,Payment, Facebook, Instagram, Google, and so on API integration
+<br />
+✔ Database : MySQL / MariaDB, MongoDB, PostgreSQL
+<br />
+✔ AWS (EC2, Cognito, S3 bucket, Lambda), Github, GitLab, Bitbucket
+<br />
+✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
+<br />
+</div>
+
+
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+
+<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:ryosha514@gmail.com">
+    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -68,43 +112,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-
-
-## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### ✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   
-<br />
-### ✔ React Animation, React Native, React Bootstrap.
-<br />
-### ✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
-<br />
-### ✔ Template, Theme and Script customization
-<br />
-### ✔ PHP framework (Laravel, CodeIgniter, Yii, etc.)
-<br />
-### ✔ Javascript framework (Node Js, Express Js, etc.)
-<br />
-### ✔ Python, Django, Nest Js, Wordpress, Shopify, Selenium
-<br />
-### ✔ RESTful API,Payment, Facebook, Instagram, Google, and so on API integration
-<br />
-### ✔ Database : MySQL / MariaDB, MongoDB, PostgreSQL
-<br />
-### ✔ AWS (EC2, Cognito, S3 bucket, Lambda), Github, GitLab, Bitbucket
-<br />
-### ✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
-<br />
-</div>
-
-
-## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-
-<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:ryosha514@gmail.com">
-    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
