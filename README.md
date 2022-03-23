@@ -1,6 +1,13 @@
 # 👋FuLL STACK DEVELOPER
   
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
+<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:ryosha514@gmail.com">
+    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
@@ -28,55 +35,6 @@ Thank you for spending your valuable time on my profile.<br />
 
 
 
-## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   <br />
-✔ React Animation, React Native, React Bootstrap.
-<br />
-✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
-<br />
-✔ Template, Theme and Script customization
-<br />
-✔ PHP framework (Laravel, CodeIgniter, Yii, etc.)
-<br />
-✔ Javascript framework (Node Js, Express Js, etc.)
-<br />
-✔ Python, Django, Nest Js, Wordpress, Shopify, Selenium
-<br />
-✔ RESTful API,Payment, Facebook, Instagram, Google, and so on API integration
-<br />
-✔ Database : MySQL / MariaDB, MongoDB, PostgreSQL
-<br />
-✔ AWS (EC2, Cognito, S3 bucket, Lambda), Github, GitLab, Bitbucket
-<br />
-✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
-<br />
-</div>
-
-
-## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
-
-<a href="https://join.skype.com/invite/BEufB8fsn5Fe">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:ryosha514@gmail.com">
-    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-
-<h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/BEufB8fsn5Fe"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-</h1>
-
-<p align="center"><img align="center" src="https://github.com/rafael731/rafael731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
-
-<br/>  
 
 ## 𝑺𝒌𝒊𝒍𝒍 𝑺𝒆𝒕 
 <div align="center">  
@@ -123,6 +81,58 @@ Thank you for spending your valuable time on my profile.<br />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />  
 </div>  
+
+<br/>  
+
+
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   <br />
+✔ React Animation, React Native, React Bootstrap.
+<br />
+✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
+<br />
+✔ Template, Theme and Script customization
+<br />
+✔ PHP framework (Laravel, CodeIgniter, Yii, etc.)
+<br />
+✔ Javascript framework (Node Js, Express Js, etc.)
+<br />
+✔ Python, Django, Nest Js, Wordpress, Shopify, Selenium
+<br />
+✔ RESTful API,Payment, Facebook, Instagram, Google, and so on API integration
+<br />
+✔ Database : MySQL / MariaDB, MongoDB, PostgreSQL
+<br />
+✔ AWS (EC2, Cognito, S3 bucket, Lambda), Github, GitLab, Bitbucket
+<br />
+✔ BlockChain, Smart Contract, Web3 JS, Ethereum, Solana, Binance, Polygon, Solidity, Rust
+<br />
+ # Ethereum / Solana / BSC / Polygon / Cardano / Moonbeam / Bitcoin<br />
+ # Smart Contract Development / Testing / Auditing<br />
+ # ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612<br />
+ # Solidity & Rust<br />
+ # Metaplex (NFT marketplace)<br />
+ # Hardhat / Truffle / Openzeppelin<br />
+ # Anchor / Cargo<br />
+ # Web3.js / Ether.js / Solana-web3<br />
+ # Next.js / React.js / Vue.js<br />
+ # Source Control<br />
+</div>
+
+
+
+
+
+<h1 align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+  <a href="https://join.skype.com/invite/BEufB8fsn5Fe"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+</h1>
+
+<p align="center"><img align="center" src="https://github.com/rafael731/rafael731/blob/main/banner.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <br/>  
 
