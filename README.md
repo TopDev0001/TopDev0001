@@ -4,37 +4,38 @@
 
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
-Welcome!
-"You think IT. I build IT !"
-My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business.
-I have + 7years experience with proficiency in NFT Marketplace |Smart Contract Development | Blockhain Development | ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps| deFI| dao| dex.
-I evaluate, develop and maintain blockchain and Cryptocurrency related products. 
-I have the expertise to accommodate any IT ambitions you may have and bring them to reality as we handle the entire process of design, development to launch of applications including creating growth marketing strategies and implementing them with guaranteed results!
-My Expertise :
-• NFT (Non Fungible Token) Marketplace Development
-• Crypto Coins Exchange Development
-• ICO & IDO Development with Created Token ( Coin )
-• Smart-Contracts (Solidity, Truffle framework)
-• Smart Contracts Audits
-• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
-• DLT Apps & Private Blockchain Development
-• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
-Also I have rich experience in developing websites and mobile applications across different platforms, I am the best candidate to realise your next big idea. 
-My developer skills and experience include but not limited to:
-✔ Blockchain
-✔ Database
-         # MySQL, PostgreSQL, MongoDB
-✔ Frontend
-         # HTML5, HTML, , SCSS, Bootstrap, tailwind
-         # React js and Vue js, NextJs
-✔ Backend
-         # PHP framework (Laravel, CodeIgniter etc.)
-         # NodeJs, ExpressJs, Python
-✔ AWS (EC2, Cognito, S3 bucket, Lambda), 
-✔ Github, GitLab, Bitbucket
-I have consulted with numerous clients from all over the globe providing them with full stack development services and successfully helping them in their start-ups, along with proper branding solutions. 
-As a highly professional developer, I always value my customers and their businesses and provide them with the best solutions to achieve their needs and requirements. I am highly proficient and efficient in my craft and always aim to deliver my client’s projects on time or at times even ahead of schedule. I value credibility, integrity and trustworthiness in dealing with my clients and strive to build a long term business relationship with them.
-Thank you for spending your valuable time on my profile.
+Welcome!<br />
+"You think IT. I build IT !"<br />
+My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business.<br />
+I have + 7years experience with proficiency in NFT Marketplace |Smart Contract Development | Blockhain Development | ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps| deFI| dao| dex.<br />
+I evaluate, develop and maintain blockchain and Cryptocurrency related products. <br />
+I have the expertise to accommodate any IT ambitions you may have and bring them to reality as we handle the entire process of design, development to launch of applications including creating growth marketing strategies and implementing them with guaranteed results!<br />
+My Expertise :<br />
+• NFT (Non Fungible Token) Marketplace Development<br />
+• Crypto Coins Exchange Development<br />
+• ICO & IDO Development with Created Token ( Coin )<br />
+• Smart-Contracts (Solidity, Truffle framework)<br />
+• Smart Contracts Audits<br />
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)<br />
+• DLT Apps & Private Blockchain Development<br />
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.<br />
+
+Also I have rich experience in developing websites and mobile applications across different platforms, I am the best candidate to realise your next big idea. <br />
+My developer skills and experience include but not limited to:<br />
+✔ Blockchain<br />
+✔ Database<br />
+         # MySQL, PostgreSQL, MongoDB<br />
+✔ Frontend<br />
+         # HTML5, HTML, , SCSS, Bootstrap,tailwind<br />
+         # React js and Vue js, NextJs<br />
+✔ Backend<br />
+         # PHP framework (Laravel, CodeIgniter etc.)<br />
+         # NodeJs, ExpressJs, Python<br />
+✔ AWS (EC2, Cognito, S3 bucket, Lambda) <br />
+✔ Github, GitLab, Bitbucket<br />
+I have consulted with numerous clients from all over the globe providing them with full stack development services and successfully helping them in their start-ups, along with proper branding solutions. <br />
+As a highly professional developer, I always value my customers and their businesses and provide them with the best solutions to achieve their needs and requirements.<br /> I am highly proficient and efficient in my craft and always aim to deliver my client’s projects on time or at times even ahead of schedule. <br />I value credibility, integrity and trustworthiness in dealing with my clients and strive to build a long term business relationship with them.<br />
+Thank you for spending your valuable time on my profile.<br />
 
 
 
