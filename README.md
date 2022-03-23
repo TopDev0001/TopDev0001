@@ -19,20 +19,7 @@ My Expertise :<br />
 • Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)<br />
 • DLT Apps & Private Blockchain Development<br />
 • Cryptocurrency Wallet Development for Linux, windows, Mac, Web.<br />
-
 Also I have rich experience in developing websites and mobile applications across different platforms, I am the best candidate to realise your next big idea. <br />
-My developer skills and experience include but not limited to:<br />
-✔ Blockchain<br />
-✔ Database<br />
-         # MySQL, PostgreSQL, MongoDB<br />
-✔ Frontend<br />
-         # HTML5, HTML, , SCSS, Bootstrap,tailwind<br />
-         # React js and Vue js, NextJs<br />
-✔ Backend<br />
-         # PHP framework (Laravel, CodeIgniter etc.)<br />
-         # NodeJs, ExpressJs, Python<br />
-✔ AWS (EC2, Cognito, S3 bucket, Lambda) <br />
-✔ Github, GitLab, Bitbucket<br />
 I have consulted with numerous clients from all over the globe providing them with full stack development services and successfully helping them in their start-ups, along with proper branding solutions. <br />
 As a highly professional developer, I always value my customers and their businesses and provide them with the best solutions to achieve their needs and requirements.<br /> I am highly proficient and efficient in my craft and always aim to deliver my client’s projects on time or at times even ahead of schedule. <br />I value credibility, integrity and trustworthiness in dealing with my clients and strive to build a long term business relationship with them.<br />
 Thank you for spending your valuable time on my profile.<br />
