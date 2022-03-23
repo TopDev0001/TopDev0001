@@ -4,9 +4,37 @@
 
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+Welcome!
+"You think IT. I build IT !"
+My goal is to keep my clients on the leading edge of information transfer technologies, adding significant value to their business.
+I have + 7years experience with proficiency in NFT Marketplace |Smart Contract Development | Blockhain Development | ICO | Cryptocurrency | Smart Contract Audits| Public & Private Blockchain | dApps| deFI| dao| dex.
+I evaluate, develop and maintain blockchain and Cryptocurrency related products. 
+I have the expertise to accommodate any IT ambitions you may have and bring them to reality as we handle the entire process of design, development to launch of applications including creating growth marketing strategies and implementing them with guaranteed results!
+My Expertise :
+• NFT (Non Fungible Token) Marketplace Development
+• Crypto Coins Exchange Development
+• ICO & IDO Development with Created Token ( Coin )
+• Smart-Contracts (Solidity, Truffle framework)
+• Smart Contracts Audits
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC 1155, BEP20, BEP721, BEP1155)
+• DLT Apps & Private Blockchain Development
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+Also I have rich experience in developing websites and mobile applications across different platforms, I am the best candidate to realise your next big idea. 
+My developer skills and experience include but not limited to:
+✔ Blockchain
+✔ Database
+         # MySQL, PostgreSQL, MongoDB
+✔ Frontend
+         # HTML5, HTML, , SCSS, Bootstrap, tailwind
+         # React js and Vue js, NextJs
+✔ Backend
+         # PHP framework (Laravel, CodeIgniter etc.)
+         # NodeJs, ExpressJs, Python
+✔ AWS (EC2, Cognito, S3 bucket, Lambda), 
+✔ Github, GitLab, Bitbucket
+I have consulted with numerous clients from all over the globe providing them with full stack development services and successfully helping them in their start-ups, along with proper branding solutions. 
+As a highly professional developer, I always value my customers and their businesses and provide them with the best solutions to achieve their needs and requirements. I am highly proficient and efficient in my craft and always aim to deliver my client’s projects on time or at times even ahead of schedule. I value credibility, integrity and trustworthiness in dealing with my clients and strive to build a long term business relationship with them.
+Thank you for spending your valuable time on my profile.
 
 
 
@@ -17,8 +45,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   
-<br />
+✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   <br />
 ✔ React Animation, React Native, React Bootstrap.
 <br />
 ✔ Vue JS, Angular JS, React JS, Next Js, TypeScipt, RxJs
