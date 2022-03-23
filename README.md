@@ -86,7 +86,7 @@ Thank you for spending your valuable time on my profile.<br />
 
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+
  
 ✔ HTML, HTML5, Jquery, SCSS, Bootstrap, Tailwind CSS   <br />
 ✔ React Animation, React Native, React Bootstrap.
@@ -119,6 +119,7 @@ Thank you for spending your valuable time on my profile.<br />
  # Web3.js / Ether.js / Solana-web3<br />
  # Next.js / React.js / Vue.js<br />
  # Source Control<br />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 </div>
 
 
