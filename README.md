@@ -1,4 +1,4 @@
-# 👋FuLL STACK DEVELOPER
+# 👋FULL STACK DEVELOPER
   
 ## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
 
