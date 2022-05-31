@@ -7,8 +7,8 @@
 </a>&nbsp;&nbsp;
 <a href="mailto:oleksii.kovalenko1@gmail.com">
     <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+</a><br />
+<h6 align="center">Skype live:.cid.4b8f44d6c26a49d2 <---> Telegram: topdev0205
 
 ## 𝑮𝒍𝒂𝒅 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 𝒉𝒆𝒓𝒆!  
 Welcome!<br />
